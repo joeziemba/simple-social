@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "firstName": "Kendra",
+      "lastName": "Martin",
+      "username": "kmartin",
+      "image": "/kendra.jpg",
+      "bio": "Bringing stories to life through visuals 🌟 | Creative photographer and documentary filmmaker",
+      "friends": ["olive-park", "jcruz", "darwinbrock", "spence", "anavu"]
+    },
+    {
+      "firstName": "Darwin",
+      "lastName": "Brock",
+      "username": "darwinbrock",
+      "image": "/darwin.jpg",
+      "bio": "🖌️✨ Passionate graphic designer with a soft spot for furry friends 🐾 | Documenting my design adventures and doggy escapades 🎨🐶 | Join me on this colorful journey! 🌈 #GraphicDesignerLife #DoggyAdventures #DesignPassion",
+      "friends": ["olive-park", "jcruz", "kmartin", "spence", "anavu"]
+    },
+    {
+      "firstName": "Jordan",
+      "lastName": "Cruz",
+      "username": "jcruz",
+      "image": "/jordan.jpg",
+      "bio": "Fashion enthusiast and lifestyle blogger. 🕶️ Sharing my passion for style and travel.",
+      "friends": ["olive-park", "darwinbrock", "kmartin", "spence", "anavu"]
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Park",
+      "username": "olive-park",
+      "image": "/olivia.jpg",
+      "bio": "Exploring the intersection of lifestyle and business for women like you! Join me on this exciting adventure as we conquer the professional world with style and grace.",
+      "friends": ["jcruz", "darwinbrock", "kmartin", "spence", "anavu"]
+    },
+    {
+      "firstName": "Spencer",
+      "lastName": "Ryan",
+      "username": "spence",
+      "image": "/spencer.jpg",
+      "bio": "Lover of tacos and naps 😴🌮",
+      "friends": ["jcruz", "darwinbrock", "kmartin", "olive-park", "anavu"]
+    },
+    {
+      "firstName": "Ana",
+      "lastName": "Vu",
+      "username": "anavu",
+      "image": "/ana.jpg",
+      "bio": "Sharing tips for mindfulness and mental well-being. 🌿 Let's navigate life's journey together! #Mindfulness #MentalHealthMatters #WellnessWarrior",
+      "friends": ["jcruz", "darwinbrock", "kmartin", "spence", "olive-park"]
+    }
+  ]
+}
